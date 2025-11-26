@@ -1,0 +1,22 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "LawStockAlert",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/LowStockAlert/lowstock": {
+      "get": {
+        "tags": [
+          "LowStockAlert"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

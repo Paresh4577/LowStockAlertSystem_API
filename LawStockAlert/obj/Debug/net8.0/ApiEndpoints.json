@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "LawStockAlert.Controllers.LowStockAlertController",
+    "Method": "GetLowStockItems",
+    "RelativePath": "api/LowStockAlert/lowstock",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

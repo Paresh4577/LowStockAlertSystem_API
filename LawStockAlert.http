@@ -1,6 +1,0 @@
-@LawStockAlert_HostAddress = http://localhost:5207
-
-GET {{LawStockAlert_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
